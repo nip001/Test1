@@ -185,3 +185,7 @@ async function myDisplay() {
   }
   
   myDisplay();
+
+
+
+  console.log("mantaplah")
